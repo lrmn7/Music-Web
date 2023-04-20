@@ -4,7 +4,7 @@
 
 <br>
 
-<img align="center" alt="LinkBio" src="assets/preview.png" width="100%"/>
+<img align="center" alt="LinkBio" src="img/Screenshot 2023-04-20 at 11-07-27 Music App.png" width="100%"/>
 
 
 Using
