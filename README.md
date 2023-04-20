@@ -12,7 +12,7 @@ Using
 - JavaScript
 - HTML
 - CSS
-
+- [Hosted on Vercel](https://vercel.com)
 ## 💻 L RMN
 
 made with love
