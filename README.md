@@ -15,4 +15,4 @@ Using
 
 ## 💻 L RMN
 
-Link Bio made with love
+made with love
